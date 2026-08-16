@@ -1,0 +1,49 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "85 kg",
+      "goal": "Build muscle and increase strength through weightlifting",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan contains 4-5 meals distributed throughout the day",
+      "Total daily protein intake meets or exceeds 150g",
+      "Meals are practical, compact, and realistic for a single day",
+      "Macro ratios support strength/muscle building (high protein emphasis)"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a strength-focused athlete (weightlifter) requiring high protein intake (150g+) across 4-5 meals with specific macro ratios"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "75 kg",
+      "goal": "Marathon preparation with carbohydrate loading and optimal hydration for a 42km race",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Meal plan totals 3000+ calories with carbohydrates comprising 60-65% of total energy intake",
+      "Includes 4-5 eating occasions with specific hydration strategy (water intake and electrolyte timing)",
+      "All meals and snacks are practical, single-day consumable items suitable for an endurance athlete"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a high-endurance athlete (marathon runner) requiring 3000+ calories with emphasis on carbohydrate loading and hydration strategy"
+  },
+  {
+    "prompt_inputs": {
+      "height": "182 cm",
+      "weight": "78 kg",
+      "goal": "Optimize energy and recovery for a competitive soccer match with training session",
+      "restrictions": "Vegetarian, no nuts"
+    },
+    "solution_criteria": [
+      "Includes pre-game meal (2-3 hours before match) with easily digestible carbs and moderate protein",
+      "Includes during-game quick energy source suitable for halftime or water breaks",
+      "Includes post-game recovery meal within 1-2 hours with protein and carbs for muscle repair",
+      "All meals are vegetarian and nut-free, totaling approximately 2,800-3,200 calories appropriate for the athlete's weight and activity level"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a sport-specific athlete (soccer player) needing balanced nutrition with pre/during/post-game meal considerations and quick energy sources"
+  }
+]
